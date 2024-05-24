@@ -48,11 +48,11 @@ int main(int argc, char *argv[])
     // print_content(lista);
     // swap(&lista, 0);
     //no le puedo poner next porque sino le estaría diciendo que en cuanto este el último ya no pase al siguiente porque lista->next es el penultimo. 
-    /* ft_printf("swap ss\n");
-    swap_ss(&lista2, &lista);
-    print_content(lista2);
-    ft_printf("separador listas\n");
-    print_content(lista); */
+    //ft_printf("swap ss\n");
+    //swap_ss(&lista2, &lista);
+    //print_content(lista2);
+    //ft_printf("separador listas\n");
+    //print_content(lista);*/
 /*     ft_printf("Antes del push\n");
     print_content(lista);
     printf("push_a:\n\n");
